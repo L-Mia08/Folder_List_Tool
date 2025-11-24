@@ -446,4 +446,4 @@ def create_ui():
     cmds.showWindow(window)
 
 # UIを表示
-create_ui()
+# create_ui()
