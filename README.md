@@ -38,13 +38,13 @@ Mayaのスプリクトエディターを起動して「Folder_List_Tool_im.py」
 起動するとリスト表「user_path_data_list.ini」を読み込みます。  
 ない場合はフォルダとファイルが作成されます。 
   
-作成:Naruse,GPT-4o  
+作成:L-Mia08,GPT-4o  
 ※AIを使用して開発いています。  
 
 《更新履歴》  
 2025年11月24日 v0.3 公開   
 ―――――――――――――――――――――――――――――――  
 《License》  
-Copyright (c) 2025 Naruse  
+Copyright (c) 2025 L-Mia08  
 Released under the MIT license  
 https://opensource.org/licenses/mit-license.php  
