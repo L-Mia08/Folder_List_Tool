@@ -427,7 +427,7 @@ def create_ui():
     cmds.frameLayout(label="About", collapsable=True, collapse=True, width=300)
     cmds.columnLayout(adjustableColumn=True)
     cmds.text(label="スクリプト名:Folder List Tool",align='left')
-    cmds.text(label="作成者:Naruse, GPT-4o",align='left')
+    cmds.text(label="作成者:L-Mia08, GPT-4o",align='left')
     cmds.text(label="作成日:2024年10月7日",align='left')
     cmds.text(label="更新日:2025年11月24日",align='left')
     cmds.text(label="バージョン:v0.3",align='left')
